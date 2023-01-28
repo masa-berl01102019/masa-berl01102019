@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Masa</h1>
+<h2>Hi, I'm Masa</h2>
 
-<h3 align="center">Full Stack Engineer from Japan</h3>
+<h3>Full Stack Engineer from Japan</h3>
 
 - I’m currently learning **Node.js / Next.js / TypeScript**
 
@@ -8,12 +8,7 @@
 
 - Know about my experiences [https://test.com](https://test.com)
 
-
-<p align="left">
-  <a href="https://linkedin.com/in/https://test.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://test.com" height="30" width="40" />
-  </a>
-</p>
+- Contact with me [https://linkedin.com/in/https://test.com](https://linkedin.com/in/https://test.com)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -73,7 +68,7 @@
   </a> 
 </p>
 
-<p align="left"> 
+<p style="display: flex;"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=masa-berl01102019&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa-berl01102019&layout=compact&theme=transparent" />
 </p>
