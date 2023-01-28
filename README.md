@@ -6,7 +6,7 @@
 
 - Here is my portfolio [https://test.com](https://test.com)
 
-- Contact with me [https://linkedin.com/in/https://test.com](https://linkedin.com/in/https://test.com)
+- Contact with me [https://linkedin.com](https://linkedin.com)
 
 <h3 align="left">Languages and Tools</h3>
 
