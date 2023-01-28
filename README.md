@@ -8,7 +8,7 @@
 
 - Contact with me [https://linkedin.com/in/https://test.com](https://linkedin.com/in/https://test.com)
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools</h3>
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> 
@@ -56,6 +56,7 @@
 </p>
 
 <h3>GitHub Status</h3>
+
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=masa-berl01102019&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent">
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa-berl01102019&layout=compact&theme=transparent">
