@@ -4,9 +4,9 @@
 
 - I’m currently learning **Node.js / Next.js / TypeScript**
 
-- Here is my portfolio [https://test.com](https://test.com)
+- Here is my portfolio [https://ecommerce-portfolio.fly.dev](https://ecommerce-portfolio.fly.dev)
 
-- Contact with me [https://linkedin.com](https://linkedin.com)
+- Contact with me [https://linkedin.com/in/masa-651a22263](https://linkedin.com/in/masa-651a22263)
 
 <h3>Languages and Tools</h3>
 
