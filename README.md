@@ -8,9 +8,9 @@
 
 - Contact with me [https://linkedin.com](https://linkedin.com)
 
-<h3 align="left">Languages and Tools</h3>
+<h3>Languages and Tools</h3>
 
-<p align="left">
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="20"> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="20"> 
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" height="20"> 
@@ -57,7 +57,6 @@
 
 <h3>GitHub Status</h3>
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api?username=masa-berl01102019&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent">
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=masa-berl01102019&layout=compact&theme=transparent">
-</p>
+![](https://github-readme-stats.vercel.app/api?username=masa-berl01102019&hide=stars,contribs&count_private=true&show_icons=true&theme=transparent)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=masa-berl01102019&layout=compact&theme=transparent)
