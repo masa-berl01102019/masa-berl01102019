@@ -2,9 +2,7 @@
 
 <h3>Full Stack Engineer from Japan</h3>
 
-- I’m currently learning **Node.js / Next.js / TypeScript**
-
-- Here is my portfolio [https://ecommerce-portfolio.fly.dev](https://ecommerce-portfolio.fly.dev)
+- Here is my portfolio [https://masa-portfolio.net](https://masa-portfolio.net/)
 
 - Contact with me [https://linkedin.com/in/masa-651a22263](https://linkedin.com/in/masa-651a22263)
 
