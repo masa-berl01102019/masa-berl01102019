@@ -2,8 +2,6 @@
 
 <h3>Full Stack Engineer from Japan</h3>
 
-- Here is my portfolio [https://masa-portfolio.net](https://masa-portfolio.net/)
-
 - Contact with me [https://linkedin.com/in/masa-651a22263](https://linkedin.com/in/masa-651a22263)
 
 <h3>Languages and Tools</h3>
